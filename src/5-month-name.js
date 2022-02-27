@@ -6,3 +6,7 @@ const months = [
 export const monthName = (monthNumber) => {
   return months[monthNumber]
 }
+
+/*if monthNumer === 1{
+  return `${months[0]}`
+}*/
